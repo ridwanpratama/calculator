@@ -1,2 +1,1 @@
-# Desain Kalkulator
-Dibuat menggunakan html & css
+# Calculator Web App
