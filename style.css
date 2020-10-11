@@ -6,7 +6,7 @@
 	border-radius: 5px;
 }
 
-#layer {
+#screen {
 	width: 100%;
 	box-sizing: border-box;
 	border: 1px solid #cecece;
@@ -47,7 +47,7 @@
 	cursor: pointer;
 }
 
-#nol {
+#zero {
 	flex-grow: 1;
 }
 
@@ -55,11 +55,11 @@
 	background: #d8d8d8;
 }
 
-#count {
+#equal {
 	background: #ffa64a;
 	color: white;
 }
 
-#count:hover {
+#equal:hover {
 	background: orange;
 }
